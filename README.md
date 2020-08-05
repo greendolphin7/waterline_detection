@@ -11,6 +11,8 @@ opencv를 활용한 방법을 찾아보다보니 카메라에 찍힌 화면의 �
 
 참고한 블로그 -> https://webnautes.tistory.com/1246 
 //
-참고한 깃허브 -> https://github.com/webnautes/nudapeu/blob/master/opencv-python-006.py
+참고한 깃허브 -> https://github.com/webnautes/nudapeu/blob/master/opencv-python-006.py  (2020/8/4)
 
 opencv 를 이용해 Roi 부분에서 height 변수가 측정해야 했던 물의 높이이다. 
+
+추후 화면의 노이즈를 최소화하는 방향으로 나아갈 생각이다. (2020/8/5)
